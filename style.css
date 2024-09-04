@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.primeirasessao {
+  border: solid pink 2px;
+}
+
+div {
+  width: 200px;
+  background-color: pink;
+  height: 200px;
+}/*# sourceMappingURL=style.css.map */
